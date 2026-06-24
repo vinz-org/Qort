@@ -1,12 +1,4 @@
-> [!CAUTION]
-> The only official places to download Fishstrap are this GitHub repository and
-> our website <https://www.fishstrap.app>. Any other websites offering downloads
-> or claiming to be us are not controlled by us, do not download from them.
-
 <div align="center">
-
-![][banner-light]
-![][banner-dark]
 
 ![][badge-license]
 ![][badge-actions]
@@ -16,6 +8,11 @@
 ![][badge-stars]
 
 </div>
+
+> [!CAUTION]
+> The only official places to download Fishstrap are this GitHub repository 
+> Any other websites offering downloads
+> or claiming to be us are not controlled by us, do not download from them.
 
 Fishstrap (pronounced fish-strap) is a custom bootstrapper for Roblox based on
 [Bloxstrap][bloxstrap] (pronounced blox-strap). It provides additional features
@@ -54,9 +51,6 @@ post in [our Discord server][discord-invite]'s `#support-and-bugs` channel.
 ![][repo-showcase-dark]
 
 </div>
-
-[banner-light]: https://github.com/fishstrap/fishstrap/raw/main/Images/Fishstrap-Light.png#gh-light-mode-only
-[banner-dark]:  https://github.com/fishstrap/fishstrap/raw/main/Images/Fishstrap-Dark.png#gh-dark-mode-only
 
 [badge-license]:   https://img.shields.io/github/license/fishstrap/fishstrap?style=flat-square
 [badge-actions]:   https://img.shields.io/github/actions/workflow/status/fishstrap/fishstrap/ci-release.yml?branch=main&style=flat-square&label=builds
